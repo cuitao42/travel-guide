@@ -9,6 +9,7 @@
 
 - [越南](./countries/vietnam/README.cn.md)
 - [台湾](./countries/taiwan/README.cn.md)
+- [蒙古](./countries/mongolia/README.cn.md)
 
 ---
 
@@ -16,3 +17,4 @@
 
 - [越南 / Vietnam](./countries/vietnam/README.cn.md) | [English](./countries/vietnam/README.en.md)
 - [台湾 / Taiwan](./countries/taiwan/README.cn.md) | [English](./countries/taiwan/README.en.md)
+- [蒙古 / Mongolia](./countries/mongolia/README.cn.md) | [English](./countries/mongolia/README.en.md)
