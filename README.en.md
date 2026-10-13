@@ -3,14 +3,15 @@
 # 🌍 Travel Experience
 
 Welcome to my **Travel Experience** project!  
-This repository is a personal log of the countries I’ve visited, including stories, photos, and cultural notes.
+This repository is a personal log of the places I’ve visited, including stories, photos, and cultural notes.
 
-## ✈️ Countries
+## ✈️ Places
 
 - [Vietnam](./countries/vietnam/README.en.md)
 - [Taiwan](./countries/taiwan/README.en.md)
 - [Mongolia](./countries/mongolia/README.en.md)
 - [Shanghai](./countries/shanghai/README.en.md)
+- [Hangzhou](./countries/hangzhou/README.en.md)
 
 ---
 
@@ -20,3 +21,4 @@ This repository is a personal log of the countries I’ve visited, including sto
 - [Taiwan / 台湾](./countries/taiwan/README.en.md) | [中文版](./countries/taiwan/README.cn.md)
 - [Mongolia / 蒙古](./countries/mongolia/README.en.md) | [中文版](./countries/mongolia/README.cn.md)
 - [Shanghai / 上海](./countries/shanghai/README.en.md) | [中文版](./countries/shanghai/README.cn.md)
+- [Hangzhou / 杭州](./countries/hangzhou/README.en.md) | [中文版](./countries/hangzhou/README.cn.md)
