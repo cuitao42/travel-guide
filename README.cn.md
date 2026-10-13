@@ -13,6 +13,7 @@
 - [上海](./countries/shanghai/README.cn.md)
 - [杭州](./countries/hangzhou/README.cn.md)
 - [南京](./countries/nanjing/README.cn.md)
+- [苏州](./countries/suzhou/README.cn.md)
 
 ---
 
@@ -24,3 +25,4 @@
 - [上海 / Shanghai](./countries/shanghai/README.cn.md) | [English](./countries/shanghai/README.en.md)
 - [杭州 / Hangzhou](./countries/hangzhou/README.cn.md) | [English](./countries/hangzhou/README.en.md)
 - [南京 / Nanjing](./countries/nanjing/README.cn.md) | [English](./countries/nanjing/README.en.md)
+- [苏州 / Suzhou](./countries/suzhou/README.cn.md) | [English](./countries/suzhou/README.en.md)
