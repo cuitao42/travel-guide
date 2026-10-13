@@ -12,6 +12,7 @@ This repository is a personal log of the places I’ve visited, including storie
 - [Mongolia](./countries/mongolia/README.en.md)
 - [Shanghai](./countries/shanghai/README.en.md)
 - [Hangzhou](./countries/hangzhou/README.en.md)
+- [Nanjing](./countries/nanjing/README.en.md)
 
 ---
 
@@ -22,3 +23,4 @@ This repository is a personal log of the places I’ve visited, including storie
 - [Mongolia / 蒙古](./countries/mongolia/README.en.md) | [中文版](./countries/mongolia/README.cn.md)
 - [Shanghai / 上海](./countries/shanghai/README.en.md) | [中文版](./countries/shanghai/README.cn.md)
 - [Hangzhou / 杭州](./countries/hangzhou/README.en.md) | [中文版](./countries/hangzhou/README.cn.md)
+- [Nanjing / 南京](./countries/nanjing/README.en.md) | [中文版](./countries/nanjing/README.cn.md)
