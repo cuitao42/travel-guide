@@ -10,6 +10,7 @@ This repository is a personal log of the countries I’ve visited, including sto
 - [Vietnam](./countries/vietnam/README.en.md)
 - [Taiwan](./countries/taiwan/README.en.md)
 - [Mongolia](./countries/mongolia/README.en.md)
+- [Shanghai](./countries/shanghai/README.en.md)
 
 ---
 
@@ -18,3 +19,4 @@ This repository is a personal log of the countries I’ve visited, including sto
 - [Vietnam / 越南](./countries/vietnam/README.en.md) | [中文版](./countries/vietnam/README.cn.md)
 - [Taiwan / 台湾](./countries/taiwan/README.en.md) | [中文版](./countries/taiwan/README.cn.md)
 - [Mongolia / 蒙古](./countries/mongolia/README.en.md) | [中文版](./countries/mongolia/README.cn.md)
+- [Shanghai / 上海](./countries/shanghai/README.en.md) | [中文版](./countries/shanghai/README.cn.md)
