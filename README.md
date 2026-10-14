@@ -14,6 +14,7 @@ This repository is a personal log of the places I’ve visited, including guides
 - [Hangzhou](./countries/hangzhou/README.en.md)
 - [Nanjing](./countries/nanjing/README.en.md)
 - [Suzhou](./countries/suzhou/README.en.md)
+- [Beijing](./countries/beijing/README.en.md)
 
 ---
 
@@ -26,3 +27,4 @@ This repository is a personal log of the places I’ve visited, including guides
 - [Hangzhou / 杭州](./countries/hangzhou/README.en.md) | [中文版](./countries/hangzhou/README.cn.md)
 - [Nanjing / 南京](./countries/nanjing/README.en.md) | [中文版](./countries/nanjing/README.cn.md)
 - [Suzhou / 苏州](./countries/suzhou/README.en.md) | [中文版](./countries/suzhou/README.cn.md)
+- [Beijing / 北京](./countries/beijing/README.en.md) | [中文版](./countries/beijing/README.cn.md)
