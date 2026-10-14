@@ -15,6 +15,7 @@ This repository is a personal log of the places I’ve visited, including storie
 - [Nanjing](./countries/nanjing/README.en.md)
 - [Suzhou](./countries/suzhou/README.en.md)
 - [Beijing](./countries/beijing/README.en.md)
+- [Hongkong](./countries/hongkong/README.en.md)
 
 ---
 
@@ -28,3 +29,4 @@ This repository is a personal log of the places I’ve visited, including storie
 - [Nanjing / 南京](./countries/nanjing/README.en.md) | [中文版](./countries/nanjing/README.cn.md)
 - [Suzhou / 苏州](./countries/suzhou/README.en.md) | [中文版](./countries/suzhou/README.cn.md)
 - [Beijing / 北京](./countries/beijing/README.en.md) | [中文版](./countries/beijing/README.cn.md)
+- [Hongkong / 香港](./countries/hongkong/README.en.md) | [中文版](./countries/hongkong/README.cn.md)
