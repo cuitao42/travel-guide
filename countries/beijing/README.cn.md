@@ -208,16 +208,16 @@
 
 - **老北京炸酱面**：黄酱肉丁配面条与多样菜码。
 - **包子、油条、豆浆**：早餐容易选择，也适合早出门赶升旗或长城时吃。
-- **炒肝**：北京传统早餐，附件推荐过**会仙居**。
-- **豆汁儿与焦圈**：口味特别，适合想体验老北京饮食的游客。附件提到大栅栏的**尹三豆汁**和“五小福”组合。
-- **卤煮火烧**：北京特色内脏小吃，附件提到**小肠陈**。
-- **炖吊子**：传统北京菜，附件提到**砂锅居**。
+- **炒肝**：北京传统早餐，有人推荐过**会仙居**。
+- **豆汁儿与焦圈**：口味特别，适合想体验老北京饮食的游客。有人提到大栅栏的**尹三豆汁**和“五小福”组合。
+- **卤煮火烧**：北京特色内脏小吃，有人提到**小肠陈**。
+- **炖吊子**：传统北京菜，有人提到**砂锅居**。
 
 ## 🥩 正餐
 
 - **北京烤鸭**：适合安排一顿正式北京餐。
 - **涮羊肉**：传统铜锅涮肉，注重羊肉、麻酱蘸料和炭火风味。
-- **聚宝源**：附件推荐的老字号清真涮羊肉店，**牛街总店**名气大，也提到**大栅栏分店**方便与前门老街游览结合。
+- **聚宝源**：有人推荐的老字号清真涮羊肉店，**牛街总店**名气大，也提到**大栅栏分店**方便与前门老街游览结合。
 
 ---
 
@@ -257,5 +257,5 @@
 - [中国国家博物馆](https://www.chnmuseum.cn/)
 - [中国科学技术馆](https://cstm.cdstm.cn/)
 - [中国铁路 12306](https://www.12306.cn/)
-- [故宫外国游客订票经验（附件参考）](https://www.reddit.com/r/travelchina/comments/1dwojfr/guide_booking_tickets_for_the_palace_museum_as_a/?tl=zh-hans)
-- [故宫现场购票讨论（附件参考）](https://www.reddit.com/r/travelchina/comments/1e7afx3/is_it_true_forbidden_city_tickets_can_be_bought/?tl=zh-hans)
+- [故宫外国游客订票经验（参考）](https://www.reddit.com/r/travelchina/comments/1dwojfr/guide_booking_tickets_for_the_palace_museum_as_a/?tl=zh-hans)
+- [故宫现场购票讨论（参考）](https://www.reddit.com/r/travelchina/comments/1e7afx3/is_it_true_forbidden_city_tickets_can_be_bought/?tl=zh-hans)
